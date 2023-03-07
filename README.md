@@ -6,6 +6,10 @@ The turtlebot stack provides all the basic drivers for running and using a [Turt
 ROS Wiki : (http://www.ros.org/wiki/Robots/TurtleBot)
 
 
+Turtlebot2 
+==========
+
+This repository is made for a turtlebot2 with astra_camera on ROS Noetic
 
 
 ![TurtleBot Logo](http://www.turtlebot.com/assets/images/turtlebot_logo.png)
